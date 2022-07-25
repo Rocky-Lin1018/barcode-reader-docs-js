@@ -22,3 +22,5 @@ enum EnumIMResultDataType {
     IMRDT_QUADRILATERAL = 0x20
 }
 ```
+
+See [C++ EnumIMResultDataType](https://www.dynamsoft.com/barcode-reader/parameters/enum/result-enums.html?ver=latest#imresultdatatype) for more info.

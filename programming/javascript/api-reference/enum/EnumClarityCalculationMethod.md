@@ -17,3 +17,5 @@ enum EnumClarityCalculationMethod {
     ECCM_CONTRAST = 0x01
 }
 ```
+
+See [C++ EnumClarityCalculationMethod](https://www.dynamsoft.com/barcode-reader/parameters/enum/frame-decoding-enums.html?ver=latest#claritycalculationmethod) for more info.

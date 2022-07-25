@@ -29,3 +29,5 @@ enum EnumImagePixelFormat{
     IPF_BGR_888 = 12
 }
 ```
+
+See [C++ EnumImagePixelFormat](https://www.dynamsoft.com/barcode-reader/parameters/enum/other-enums.html?ver=latest#imagepixelformat) for more info.

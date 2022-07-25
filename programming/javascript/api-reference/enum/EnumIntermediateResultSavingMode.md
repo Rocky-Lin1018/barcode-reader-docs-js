@@ -19,3 +19,5 @@ enum EnumIntermediateResultSavingMode {
     IRSM_BOTH = 0x04 
 }
 ```
+
+See [C++ EnumIntermediateResultSavingMode](https://www.dynamsoft.com/barcode-reader/parameters/enum/result-enums.html?ver=latest#intermediateresultsavingmode) for more info.

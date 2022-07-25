@@ -20,3 +20,5 @@ enum EnumPDFReadingMode {
     PDFRM_REV = 0x80000000
 }
 ```
+
+See [C++ EnumPDFReadingMode](https://www.dynamsoft.com/barcode-reader/parameters/enum/parameter-mode-enums.html?ver=latest#pdfreadingmode) for more info.

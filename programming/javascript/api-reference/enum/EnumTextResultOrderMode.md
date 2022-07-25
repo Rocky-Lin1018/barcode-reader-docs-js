@@ -21,3 +21,5 @@ enum EnumTextResultOrderMode {
     TROM_REV = 0x80000000
 }
 ```
+
+See [C++ EnumTextResultOrderMode](https://www.dynamsoft.com/barcode-reader/parameters/enum/result-enums.html?ver=latest#textresultordermode) for more info.

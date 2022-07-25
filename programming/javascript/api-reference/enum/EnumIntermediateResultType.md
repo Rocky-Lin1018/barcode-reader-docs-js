@@ -31,3 +31,5 @@ enum EnumIntermediateResultType {
     IRT_PREDETECTED_QUADRILATERAL = 0x00002000
   }
 ```
+
+See [C++ EnumIntermediateResultType](https://www.dynamsoft.com/barcode-reader/parameters/enum/result-enums.html?ver=latest#intermediateresulttype) for more info.

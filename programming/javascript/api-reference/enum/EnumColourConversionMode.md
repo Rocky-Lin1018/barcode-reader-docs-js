@@ -19,3 +19,5 @@ enum EnumColourConversionMode {
     CICM_REV = 0x80000000
 }
 ```
+
+See [C++ EnumColourConversionMode](https://www.dynamsoft.com/barcode-reader/parameters/enum/parameter-mode-enums.html?ver=latest#colourconversionmode) for more info.

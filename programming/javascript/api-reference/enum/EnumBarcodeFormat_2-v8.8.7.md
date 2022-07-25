@@ -25,3 +25,5 @@ enum EnumBarcodeFormat_2{
     BF2_DOTCODE = 0x02
 }
 ```
+
+See [C++ EnumBarcodeFormat_2](https://www.dynamsoft.com/barcode-reader/parameters/enum/format-enums.html?ver=latest#barcodeformat_2) for more info.

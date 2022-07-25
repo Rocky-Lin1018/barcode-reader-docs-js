@@ -24,3 +24,5 @@ enum EnumDeblurMode {
     DM_SHARPENING = 0x40
 }
 ```
+
+See [C++ EnumDeblurMode](https://www.dynamsoft.com/barcode-reader/parameters/enum/parameter-mode-enums.html?ver=latest#deblurmode) for more info.

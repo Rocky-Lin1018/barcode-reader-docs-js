@@ -49,3 +49,5 @@ enum EnumBarcodeFormat{
     BF_NULL = 0x00
 }
 ```
+
+See [C++ EnumBarcodeFormat](https://www.dynamsoft.com/barcode-reader/parameters/enum/format-enums.html?ver=latest#barcodeformat) for more info.
